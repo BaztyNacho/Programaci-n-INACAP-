@@ -1,0 +1,13 @@
+# "Cosas para la 3ra nota a tener en cuenta"
+
+#Para Encriptamiento de contraseñas 
+Cryptography.fernet
+
+Comando en Ejecutar Phyton ---->   pip install cryptography 
+
+- Crear Clase Contraseñas ( esto con la finalidad de almacenar las contraseñas guardadas que han sido encriptadas )
+  este tiene que ir ubicado en la carpeta Auxiliares
+
+Al Main que tiene el profesor sobre gestion_empleado ...agregar un if/Else o Return en caso de que la contraseña Encriptada no coincida con la de base de datos.
+
+dato: cursos --- es como el paiton pero con IA
