@@ -10,4 +10,8 @@ Comando en Ejecutar Phyton ---->   pip install cryptography
 
 Al Main que tiene el profesor sobre gestion_empleado ...agregar un if/Else o Return en caso de que la contraseña Encriptada no coincida con la de base de datos.
 
-dato: cursos --- es como el paiton pero con IA
+dato: cursor --- es como el paiton pero con IA
+
+
+
+
